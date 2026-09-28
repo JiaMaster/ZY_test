@@ -1,0 +1,7 @@
+﻿sample_id,group,activity
+1,control,90.0
+2,control,100.0
+3,control,110.0
+4,treatment,120.0
+5,treatment,
+6,treatment,140.0
